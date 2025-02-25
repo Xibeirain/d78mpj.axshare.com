@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="36px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -909 -2568 )">
-    <path d="M 927 2568  C 937.08 2568  945 2575.92  945 2586  C 945 2596.08  937.08 2604  927 2604  C 916.92 2604  909 2596.08  909 2586  C 909 2575.92  916.92 2568  927 2568  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 927 2568.5  C 936.8 2568.5  944.5 2576.2  944.5 2586  C 944.5 2595.8  936.8 2603.5  927 2603.5  C 917.2 2603.5  909.5 2595.8  909.5 2586  C 909.5 2576.2  917.2 2568.5  927 2568.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="25px" height="36px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -1072 -2568 )">
+    <path d="M 1084.5 2568  C 1091.5 2568  1097 2575.92  1097 2586  C 1097 2596.08  1091.5 2604  1084.5 2604  C 1077.5 2604  1072 2596.08  1072 2586  C 1072 2575.92  1077.5 2568  1084.5 2568  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 1084.5 2568.5  C 1091.22 2568.5  1096.5 2576.2  1096.5 2586  C 1096.5 2595.8  1091.22 2603.5  1084.5 2603.5  C 1077.78 2603.5  1072.5 2595.8  1072.5 2586  C 1072.5 2576.2  1077.78 2568.5  1084.5 2568.5  Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
